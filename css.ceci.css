@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f8ff; /* Cor de fundo suave */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #ff69b4; /* Cor da borda */
+    border-radius: 10px;
+    background-color: #fff; /* Cor de fundo do container */
+}
+
+h1 {
+    color: #ff1493; /* Cor do texto do título */
+    font-size: 2.5em;
+    margin: 0;
+}
+
+p {
+    color: #ff4500; /* Cor do texto do parágrafo */
+    font-size: 1.5em;
+    margin: 10px 0 0;
+}
